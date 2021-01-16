@@ -1,0 +1,14 @@
+{
+  "name": "discord-simple-screenshot-watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Cr0ax",
+  "license": "GPL",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}

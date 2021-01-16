@@ -1,0 +1,12 @@
+{
+  "user": {
+    "displayName": "[ENTER NAME]",
+    "color": "#00ff00",
+    "directory": "/PATH/TO/YOUR/HOME/.minecraft/screenshots/"
+  },
+  "discord" : {
+    "webhookID": "[WEBHOOK]",
+    "webhookToken": "[WEBHOOK-TOKEN]",
+    "webhookUsername": "NO-NAME"
+  }
+}
