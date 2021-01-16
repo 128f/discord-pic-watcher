@@ -8,6 +8,6 @@ A dead-simple file uploader written in javascript with only one dependency (disc
 
 3. Fill out the new config file `config.json` with your settings
 
-4. `npm start`
+4. `npm install` and then `npm start`
 
 5. Put a screenshot in `directory` to test
